@@ -28,7 +28,7 @@ Scope   : Patients • Doctors • Appointments • Roles
 
 ```
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> </p>
-## Links
+Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mhmmdissa/" target="_blank">
