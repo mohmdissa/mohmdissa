@@ -30,5 +30,4 @@ Scope   : Patients • Doctors • Appointments • Roles
 
 <p align="center"> <a href="mailto:mhmmdissa4@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/mhmmdissa/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-mohammad%20issa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohmdissa/mohmdissa/output/snake.svg" width="100%" />
-</p>
+ src="https://raw.githubusercontent.com/mohmdissa/mohmdissa/output/snake.svg" alt="Snake animation" />
