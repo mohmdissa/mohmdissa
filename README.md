@@ -34,3 +34,4 @@
 ---
 
 ## > Turning ideas into code… 
+![Stats](https://github-readme-stats.vercel.app/api?username=mohmdissa&show_icons=true)
