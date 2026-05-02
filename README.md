@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohammad Issa 👋</h1>
 
-<!--
-**mohmdissa/mohmdissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Developer | ☕ Coffee lover 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🔭 Currently building a **Smart Clinic System** (.NET + React)
+- 🌱 Learning more about **.NET & Clean Architecture**
+- 💡 Interested in building real-world web applications
+
+
+---
+
+## 🛠️ Tech Stack
+- 💻 .NET / C#
+- ⚛️ React
+- 🗄️ PostgreSQL
+- 🌐 REST APIs
+
+---
+
+## 🚀 Current Project
+**Smart Clinic System**
+> A web app to manage patients, doctors, and appointments.
+
+---
+
+## 📫 Summon Me
+- 📧 Email: **mhmmdissa4@gmail.com**
+
+---
+
+## > Turning ideas into code… 
