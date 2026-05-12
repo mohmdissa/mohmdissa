@@ -41,15 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" title="Android"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohmdissa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdissa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
 
 ---
 
