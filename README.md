@@ -1,39 +1,42 @@
+<h1 align="center">Mohammad Issa</h1>
 
-  </td>
-  </tr>
-</table>
+<p align="center">
+  Backend-focused Developer • .NET • React • PostgreSQL
+</p>
 
----
-
-### Tech Stack
-
-**Backend**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+</p>
 
 ---
 
-### GitHub Stats
+## About
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohmdissa&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdissa&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
+- Currently building a Smart Clinic System  
+- Working with .NET, React, and PostgreSQL  
+- Interested in backend architecture and clean code  
+- Focused on building real-world systems  
 
 ---
 
-<div align="center">
+## Current Project
 
-<img src="https://raw.githubusercontent.com/mohmdissa/mohmdissa/output/snake.svg" width="100%" />
+Smart Clinic System
+Stack   : .NET + React + PostgreSQL
+Scope   : Patients • Doctors • Appointments • Roles
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> </p>
 
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhmmdissa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Issa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:mhmmdissa4@gmail.com">
+    <img src="https://img.shields.io/badge/Summon%20me-mhmmdissa4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/mohmdissa/mohmdissa/output/snake.svg?cache=1" width="100%" /> </p>
