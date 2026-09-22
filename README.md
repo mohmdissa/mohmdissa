@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+  <img src="./output.gif" width="600"/>
 </p>
-
 ---
 
 ## 👤 About
