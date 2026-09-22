@@ -89,6 +89,78 @@
 
 <td width="50%" valign="top">
 
+
+---
+
+# 🚀 Projects
+
+<table width="100%" cellspacing="0" cellpadding="15">
+
+<tr>
+
+<td width="50%" valign="top" style="border:1px solid #30363d;">
+
+<h3>🏥 QCare — Cloud Hosted Smart Clinic System</h3>
+
+<p><em>ASP.NET Core · React · PostgreSQL · Azure · Docker</em></p>
+
+<p>
+A full-stack healthcare management platform deployed on Azure with cloud-based architecture and secure access management.
+</p>
+
+<ul>
+<li>ASP.NET Core REST API backend</li>
+<li>React frontend application</li>
+<li>JWT authentication with role-based access</li>
+<li>Docker containerization</li>
+<li>Azure cloud deployment</li>
+<li>PostgreSQL database hosting</li>
+<li>CI/CD pipeline using GitHub Actions</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top" style="border:1px solid #30363d;">
+
+<h3>☁️ Cloud Infrastructure Automation Lab</h3>
+
+<p><em>AWS · Terraform · Linux · Bash</em></p>
+
+<p>
+Hands-on cloud infrastructure project focused on provisioning and managing cloud resources through automation.
+</p>
+
+<ul>
+<li>Provisioned infrastructure using Terraform</li>
+<li>Configured Linux cloud servers</li>
+<li>Automated tasks using Bash scripts</li>
+<li>Configured networking and security rules</li>
+<li>Documented cloud architecture</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top" style="border:1px solid #30363d;">
+
 <h3>🐳 Containerized Application Deployment</h3>
 
 <p><em>Docker · Linux · Nginx</em></p>
@@ -98,33 +170,22 @@ Production-style deployment environment using containers and reverse proxy archi
 </p>
 
 <ul>
-
 <li>Created Docker images and containers</li>
-
 <li>Configured Nginx reverse proxy</li>
-
 <li>Managed Linux server environment</li>
-
-<li>Applied deployment best practices</li>
-
 <li>Configured application networking</li>
-
+<li>Applied deployment best practices</li>
 </ul>
 
-
 <p>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-
 </p>
-
 
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #30363d;">
 
 <h3>🌌 Galaxy Website Cloud Deployment</h3>
 
@@ -135,28 +196,17 @@ A Flask web application deployed to a cloud environment with production configur
 </p>
 
 <ul>
-
 <li>Configured Linux hosting environment</li>
-
-<li>Deployed Python Flask application</li>
-
+<li>Deployed Flask application</li>
 <li>Managed application configuration</li>
-
 <li>Applied cloud deployment workflow</li>
-
 </ul>
 
-
 <p>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-
 </p>
-
 
 </td>
 
@@ -164,41 +214,33 @@ A Flask web application deployed to a cloud environment with production configur
 
 
 <tr>
-<td colspan="2"><br/></td>
-</tr>
 
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #30363d;">
 
 <h3>⚙️ CI/CD Automation Pipeline</h3>
 
 <p><em>GitHub Actions · Docker · Cloud</em></p>
 
 <p>
-Automated software delivery pipeline for building, testing, and deploying applications.
+Automated software delivery workflow for building, testing, and deploying applications.
 </p>
 
 <ul>
-
 <li>Configured GitHub Actions workflows</li>
-
-<li>Automated Docker image creation</li>
-
+<li>Automated Docker builds</li>
 <li>Implemented deployment automation</li>
-
 <li>Managed version control workflow</li>
-
 </ul>
 
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #30363d;">
 
 <p align="center">
+<br><br>
 <em>More Cloud & DevOps projects coming soon...</em>
+<br><br>
 </p>
 
 </td>
