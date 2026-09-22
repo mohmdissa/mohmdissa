@@ -16,7 +16,6 @@
 - 🐧 Experienced with Linux systems, networking fundamentals, and automation scripting
 - 🚀 Interested in Cloud Infrastructure, DevOps practices, CI/CD pipelines, and Infrastructure as Code
 - 🔧 Building real-world projects using AWS, Azure, Docker, and automation tools
-- 📬 Reach me at **mhmmdissa4@gmail.com**
 
 ---
 
@@ -39,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" title="Terraform"/>
 &nbsp;
 
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="36" title="AWS"/>
 &nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" title="Azure"/>
@@ -57,7 +56,6 @@
 
 ## 🔗 Connect
 
-## 🔗 Connect
 
 <table align="center">
 <tr>
