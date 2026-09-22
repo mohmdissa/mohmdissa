@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" title="Terraform"/>
 &nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" title="AWS"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" title="AWS"/>
 &nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" title="Azure"/>
@@ -57,112 +57,29 @@
 
 ## 🔗 Connect
 
-<p align="center">
+## 🔗 Connect
 
+<table align="center">
+<tr>
+
+<td align="center">
 <a href="https://www.linkedin.com/in/mhmmdissa/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Issa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
-
-<a href="mailto:mhmmdissa4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mhmmdissa4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-
----
-
-# 🚀 Projects
-
-<table width="100%">
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🏥 QCare — Cloud Hosted Smart Clinic System</h3>
-
-<p><em>ASP.NET Core · React · PostgreSQL · Azure · Docker</em></p>
-
-<p>
-A full-stack healthcare management platform designed with cloud deployment and scalable architecture in mind.
-</p>
-
-<ul>
-
-<li>Developed RESTful backend using ASP.NET Core</li>
-
-<li>Built React-based frontend application</li>
-
-<li>Implemented JWT authentication with Admin / Staff / Patient roles</li>
-
-<li>Containerized application using Docker</li>
-
-<li>Deployed application services on Microsoft Azure</li>
-
-<li>Configured PostgreSQL cloud database</li>
-
-<li>Implemented CI/CD workflow using GitHub Actions</li>
-
-<li>Managed environment variables and deployment configuration</li>
-
-</ul>
-
-<p>
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-</p>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<h3>☁️ Cloud Infrastructure Automation Lab</h3>
-
-<p><em>AWS · Terraform · Linux · Bash</em></p>
-
-<p>
-Hands-on cloud infrastructure project focused on provisioning and managing resources using automation.
-</p>
-
-<ul>
-
-<li>Created cloud infrastructure using Terraform</li>
-
-<li>Configured Linux-based cloud servers</li>
-
-<li>Automated administrative tasks using Bash scripts</li>
-
-<li>Configured networking and security rules</li>
-
-<li>Documented cloud architecture and deployment steps</li>
-
-</ul>
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-
-</p>
-
 </td>
 
 </tr>
+
+<tr>
+<td align="center">
+<a href="mailto:mhmmdissa4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-mhmmdissa4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</td>
+
+</tr>
+
+</table>
 
 
 <tr>
