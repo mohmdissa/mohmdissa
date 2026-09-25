@@ -128,27 +128,26 @@ A full-stack healthcare management platform deployed on Azure with cloud-based a
 
 
 <td width="50%" valign="top" style="border:1px solid #30363d;">
+<h3>🇱🇧 Lebanon Tourism Mobile Application</h3>
 
-<h3>☁️ Cloud Infrastructure Automation Lab</h3>
-
-<p><em>AWS · Terraform · Linux · Bash</em></p>
+<p><em>Android Studio · Java · Firebase Firestore</em></p>
 
 <p>
-Hands-on cloud infrastructure project focused on provisioning and managing cloud resources through automation.
+A mobile application designed to showcase tourism destinations in Lebanon, providing users with information about landmarks, locations, and attractions.
 </p>
 
 <ul>
-<li>Provisioned infrastructure using Terraform</li>
-<li>Configured Linux cloud servers</li>
-<li>Automated tasks using Bash scripts</li>
-<li>Configured networking and security rules</li>
-<li>Documented cloud architecture</li>
+<li>Developed an Android mobile application using Android Studio</li>
+<li>Designed user interfaces for browsing tourism destinations</li>
+<li>Integrated Firebase Firestore for storing and retrieving application data</li>
+<li>Implemented database connectivity and real-time data management</li>
+<li>Structured application components following Android development practices</li>
 </ul>
 
 <p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
 </td>
@@ -160,25 +159,26 @@ Hands-on cloud infrastructure project focused on provisioning and managing cloud
 
 <td width="50%" valign="top" style="border:1px solid #30363d;">
 
-<h3>🐳 Containerized Application Deployment</h3>
+<h3>🏟️ Ehjoz - Sports Stadium Reservation & Management System</h3>
 
-<p><em>Docker · Linux · Nginx</em></p>
+<p><em>.NET · C# · SQL Server · Full-Stack Development</em></p>
 
 <p>
-Production-style deployment environment using containers and reverse proxy architecture.
+A full-stack web application designed to manage sports stadium reservations, allowing users to browse available facilities, book time slots, and manage stadium operations.
 </p>
 
 <ul>
-<li>Created Docker images and containers</li>
-<li>Configured Nginx reverse proxy</li>
-<li>Managed Linux server environment</li>
-<li>Configured application networking</li>
-<li>Applied deployment best practices</li>
+<li>Developed a full-stack application using .NET and C#</li>
+<li>Designed and implemented database structures for users, stadiums, and reservations</li>
+<li>Built reservation management workflows and application logic</li>
+<li>Created user interfaces for booking and stadium administration</li>
+<li>Integrated backend services with database operations</li>
 </ul>
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 </td>
@@ -216,29 +216,9 @@ A full-stack informational web application about galaxies, built using Flask wit
 
 <td width="50%" valign="top" style="border:1px solid #30363d;">
 
-<h3>⚙️ CI/CD Automation Pipeline</h3>
-
-<p><em>GitHub Actions · Docker · Cloud</em></p>
-
-<p>
-Automated software delivery workflow for building, testing, and deploying applications.
-</p>
-
-<ul>
-<li>Configured GitHub Actions workflows</li>
-<li>Automated Docker builds</li>
-<li>Implemented deployment automation</li>
-<li>Managed version control workflow</li>
-</ul>
-
-</td>
-
-
-<td width="50%" valign="top" style="border:1px solid #30363d;">
-
 <p align="center">
 <br><br>
-<em>More Cloud & DevOps projects coming soon...</em>
+<em>More projects coming soon...</em>
 <br><br>
 </p>
 
