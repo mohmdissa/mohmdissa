@@ -186,19 +186,19 @@ Production-style deployment environment using containers and reverse proxy archi
 
 <td width="50%" valign="top" style="border:1px solid #30363d;">
 
-<h3>🌌 Galaxy Website Cloud Deployment</h3>
+<h3>🌌 Galaxy Website</h3>
 
-<p><em>Python · Flask · Azure</em></p>
+<p><em>Python · Flask · HTML/CSS · JavaScript</em></p>
 
 <p>
-A Flask web application deployed to a cloud environment with production configuration.
+A full-stack informational web application about galaxies, built using Flask with a structured backend and user-facing web interface.
 </p>
 
 <ul>
-<li>Configured Linux hosting environment</li>
-<li>Deployed Flask application</li>
-<li>Managed application configuration</li>
-<li>Applied cloud deployment workflow</li>
+<li>Developed a Flask-based web application</li>
+<li>Designed and organized website content and application structure</li>
+<li>Implemented backend routes and application logic</li>
+<li>Created an interactive and responsive user interface</li>
 </ul>
 
 <p>
