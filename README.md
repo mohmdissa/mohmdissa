@@ -14,7 +14,7 @@
 - ☁️ Cloud Engineer focused on designing, deploying, and maintaining scalable cloud solutions
 - 🐧 Experienced with Linux systems, networking fundamentals, and automation scripting
 - 🚀 Interested in Cloud Infrastructure, DevOps practices, CI/CD pipelines, and Infrastructure as Code
-- 🔧 Building real-world projects using AWS, Azure, Docker, and automation tools
+- 🔧 Building real-world projects using AWS, Docker, and automation tools
 
 ---
 
@@ -101,7 +101,7 @@
 
 <h3>🏥 QCare — Cloud Hosted Smart Clinic System</h3>
 
-<p><em>ASP.NET Core · React · PostgreSQL · Azure · Docker</em></p>
+<p><em>ASP.NET Core · React · PostgreSQL · aws · Docker</em></p>
 
 <p>
 A full-stack healthcare management platform deployed on Azure with cloud-based architecture and secure access management.
@@ -112,7 +112,7 @@ A full-stack healthcare management platform deployed on Azure with cloud-based a
 <li>React frontend application</li>
 <li>JWT authentication with role-based access</li>
 <li>Docker containerization</li>
-<li>Azure cloud deployment</li>
+<li>aws cloud deployment</li>
 <li>PostgreSQL database hosting</li>
 <li>CI/CD pipeline using GitHub Actions</li>
 </ul>
